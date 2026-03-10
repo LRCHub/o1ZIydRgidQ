@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "迷子ライフ",
+  "base_artist": "TOKOTOKO（西沢さんP）、鏡音リン",
+  "createdAt": "2026-03-10T18:33:43.315940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "迷子ライフ",
+      "artist": "TOKOTOKO",
+      "has_synced": true,
+      "path": "select/01_迷子ライフ_TOKOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "迷子ライフ",
+      "artist": "西沢さんP",
+      "has_synced": true,
+      "path": "select/02_迷子ライフ_西沢さんP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "迷子ライフ",
+      "artist": "TOKOTOKO",
+      "has_synced": true,
+      "path": "select/03_迷子ライフ_TOKOTOKO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "迷子ライフ",
+      "artist": "TOKOTOKO(西沢さんP)",
+      "has_synced": false,
+      "path": "select/pl_01_迷子ライフ_TOKOTOKO(西沢さんP).txt"
+    }
+  ]
+}
